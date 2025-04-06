@@ -63,8 +63,8 @@ INDEX SASS
 */
 body {
   margin: 0;
-  font-family: "Open Sans", sans-serif;
-  font-size: 18px;
+  font-family: "EB Garamond", sans-serif;
+  font-size: 20px;
   line-height: 30px;
   font-weight: 400;
   color: #404040;
@@ -244,32 +244,32 @@ iframe {
 * ============================
 */
 ::-webkit-input-placeholder {
-  font-family: "Open Sans", sans-serif;
-  font-size: 18px;
+  font-family: "EB Garamond", sans-serif;
+  font-size: 20px;
   line-height: 30px;
   color: #777777;
   font-weight: 400;
 }
 
 :-moz-placeholder {
-  font-family: "Open Sans", sans-serif;
-  font-size: 18px;
+  font-family: "EB Garamond", sans-serif;
+  font-size: 20px;
   line-height: 30px;
   color: #777777;
   font-weight: 400;
 }
 
 ::-o-placeholder {
-  font-family: "Open Sans", sans-serif;
-  font-size: 18px;
+  font-family: "EB Garamond", sans-serif;
+  font-size: 20px;
   line-height: 30px;
   color: #777777;
   font-weight: 400;
 }
 
 :-ms-input-placeholder {
-  font-family: "Open Sans", sans-serif;
-  font-size: 18px;
+  font-family: "EB Garamond", sans-serif;
+  font-size: 20px;
   line-height: 30px;
   color: #777777;
   font-weight: 400;
@@ -294,62 +294,62 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 }
 
 .heading-1 {
-  font-size: 48px;
-  line-height: 54px;
+  font-size: 54px;
+  line-height: 60px;
 }
 @media (max-width: 768px) {
   .heading-1 {
-    font-size: 38px;
-    line-height: 42px;
+    font-size: 44px;
+    line-height: 48px;
   }
 }
 
 .heading-2 {
-  font-size: 41px;
-  line-height: 51px;
+  font-size: 46px;
+  line-height: 56px;
 }
 @media (max-width: 768px) {
   .heading-2 {
-    font-size: 35px;
-    line-height: 37px;
+    font-size: 40px;
+    line-height: 42px;
   }
 }
 
 .heading-3 {
-  font-size: 32px;
-  line-height: 38px;
+  font-size: 35px;
+  line-height: 41px;
 }
 @media (max-width: 768px) {
   .heading-3 {
-    font-size: 28px;
-    line-height: 32px;
+    font-size: 31px;
+    line-height: 35px;
   }
 }
 
 .heading-4 {
-  font-size: 20px;
-  line-height: 26px;
+  font-size: 22px;
+  line-height: 28px;
 }
 @media (max-width: 768px) {
   .heading-4 {
-    font-size: 16px;
-    line-height: 20px;
+    font-size: 18px;
+    line-height: 22px;
   }
 }
 
 .heading-5 {
-  font-size: 18px;
-  line-height: 24px;
+  font-size: 20px;
+  line-height: 26px;
 }
 @media (max-width: 768px) {
   .heading-5 {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
 .heading-6 {
-  font-size: 17px;
-  line-height: 21px;
+  font-size: 18px;
+  line-height: 22px;
 }
 
 /**
@@ -691,7 +691,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   }
 }
 .header-navigation .navigation-box #navigation-menu li a {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 30px;
   padding: 15px;
   color: #ffffff;
@@ -1670,7 +1670,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   width: 100%;
   background-color: #ffffff;
   color: #777777;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 30px;
 }
 .form-action .form-group .form-control:focus {
@@ -1697,7 +1697,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 }
 .form-action .file-upload:after {
   content: attr(data-text);
-  font-size: 18px;
+  font-size: 20px;
   line-height: 30px;
   font-weight: 400;
   color: #777777;
@@ -1722,7 +1722,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   background: #ffffff;
   color: #3e3d3d;
   z-index: 25;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 40px;
   padding: 0 15px;
   text-transform: uppercase;
@@ -1937,7 +1937,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   margin-right: 10px;
 }
 .page-navigation .pagination li a {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 30px;
   color: #404040;
   border-radius: 0 !important;
@@ -1971,7 +1971,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   margin-bottom: 30px;
 }
 .single-post .single-quote p {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 30px;
   margin: 0;
 }
@@ -2004,7 +2004,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   border-bottom: 1px solid #3e3d3d;
 }
 .single-post .single-tags-share .single-tags {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 30px;
   color: #000000;
   font-weight: 400;
@@ -2034,7 +2034,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   }
 }
 .single-post .single-tags-share .single-share {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 30px;
   margin: 0;
 }
@@ -2160,7 +2160,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 }
 .single-comment-desc .single-comment-btn {
   color: #3e3d3d;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 30px;
 }
 
@@ -2266,7 +2266,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   margin-bottom: 10px;
 }
 .tag-widget li a {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 30px;
   color: #404040;
   font-weight: 400;
