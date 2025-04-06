@@ -35,14 +35,14 @@ h1, h2, h3, h4, h5, h6{
      font-size:$font-size-h1 - 10px;
      line-height:$font-size-h1 - 6px;
   }
-  line-height: floor(($font-size-h1 + 10));
+  line-height: floor(($font-size-h1 + 6));
 }
 .heading-2 { 
   font-size:$font-size-h2; 
   @include tablet{
     font-size:$font-size-h2 - 6px;
     line-height:$font-size-h2 - 4px;
- }
+  }
   line-height: floor(($font-size-h2 + 10));
 }
 .heading-3 {

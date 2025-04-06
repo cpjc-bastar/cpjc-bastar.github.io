@@ -13,6 +13,9 @@
 .bg-color3{
     background-color:$bg-color3;
 }
+.bg-color4{
+    background-color:$bg-color4;
+}
 /*Spacing*/
 %section-spacing{
     padding-top:$padding-large;
@@ -32,6 +35,18 @@
     @include tablet{
         padding-top:$padding-default - 20px;
         padding-bottom:$padding-default - 20px;
+    }
+}
+%bottom-spacing{
+    padding-bottom:$padding-default;
+    @include tablet{
+        padding-bottom:$padding-default - 20px;
+    }
+}
+%inner-bottom-spacing{
+    padding-bottom:$padding-default - 30px;
+    @include tablet{
+        padding-bottom:$padding-default - 50px;
     }
 }
 %bminus-30{
@@ -59,6 +74,12 @@
 .inner-spacing{
     @extend %inner-spacing;
 }
+.bottom-spacing{
+    @extend %bottom-spacing;
+}
+.inner-bottom-spacing {
+    @extend %inner-bottom-spacing
+}
 .bminus-30{
     @extend  %bminus-30;
 }
@@ -71,13 +92,10 @@
 }
 
 .bg-cover1{
-    background:url(../images/bg-pattern.svg) 50% no-repeat,linear-gradient(60deg,$hover-color,lighten($hover-color, 20%));
-	
+    background-color: $hover-color;
 }
 .bg-cover2{
-     background:url(../images/bg-pattern2.svg) 50% no-repeat,linear-gradient(0deg,$hover-color,darken($hover-color, 20%));
-
-	 
+    background-color: $hover-color;
 }
 
 %overlay-color{
