@@ -1,4 +1,5 @@
 - title: Categories of Documented Violations and Atrocities
+  id: by-violations
   categories:
   - title: Extrajudicial Killings / Fake Encounters
     url: 
@@ -14,6 +15,7 @@
     url: 
   
 - title: Chronological Documents
+  id: by-year
   categories:
   - title: Bastar 2001-2004
     url: 
@@ -27,6 +29,7 @@
     url: 
 
 - title: Chronological Documents
+  id: by-123
   categories:
   - title: Bastar 2001-2004
     url: 

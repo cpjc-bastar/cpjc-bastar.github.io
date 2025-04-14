@@ -8,10 +8,10 @@
 ####################################################
 
 # Site settings
-title: "Campaign for Peace and Justice in Chhatisgarh"
+title: "Campaign for Peace and Justice in Chhattisgarh"
 email: "cpjchhatisgarh@gmail.com"
 description: "A platform for advocacy, archiving historical and legal information, and sharing ongoing incidents related to Bastar"
-keywords: "cpjc, chhatisgarh, bastar, documentation, advocacy, legal information, news aggregation, case study"
+keywords: "cpjc, chhattisgarh, bastar, documentation, advocacy, legal information, news aggregation, case study"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cpjc-bastar.github.io/"
 
