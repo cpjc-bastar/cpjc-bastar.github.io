@@ -1,0 +1,11 @@
+#Please use the main menu items under the "text"
+
+- text: About Bastar
+  url: /pages/about-bastar
+- text: Documentation
+  url: /#documentation
+  submenu:
+  - text: Violations
+    url: /#by-violations
+  - text: By Year
+    url: /#by-year

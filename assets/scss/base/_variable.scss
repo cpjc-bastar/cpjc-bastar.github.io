@@ -1,0 +1,55 @@
+/**
+* ============================
+*  1.0 Variable
+* ============================
+*/
+ 
+/* Color */
+$font-color-default: #404040;
+$font-color2: #000000;
+$font-color3: #3e3d3d;
+$font-color4: #ffffff;
+$link-color:#404040;
+$hover-color:#3e3d3d; 
+$placeholder-color:#777777;
+$bg-color-default:#ffffff;
+$bg-color2:#3e3d3d;
+$bg-color3:#d1d1d1;
+$bg-color4:#3e3d3d;
+$button-bg : #ffffff;
+$button-bg2 : #3e3d3d;
+/* Typography */
+$font-family-default: 'EB Garamond', sans-serif;
+$font-size-default:     20px ;
+$font-size-thin:     16px ;
+$line-height-default:     30px ;
+$line-height-thin:     22px ;
+$font-weight-default:         400 ;
+$font-weight-thin:         300 ;
+$font-weight-medi:         500 ;
+$font-weight-semi:         600 ;
+$font-weight-bold:         700 ;
+$font-size-h1:       floor(($font-size-default * 2.7)) ; 
+$font-size-h2:       floor(($font-size-default * 2.3)) ; 
+$font-size-h3:      ceil(($font-size-default * 1.75)) ; 
+$font-size-h4:      ceil(($font-size-default * 1.1)) ; 
+$font-size-h5:      ceil(($font-size-default * 1)) ; 
+$font-size-h6:      ceil(($font-size-default * 0.9)) ; 
+/* Border */
+$border-color2: #3e3d3d;
+$border-color: #3e3d3d;
+$border-solid: 1px solid ;
+$border-radius:    4px ;
+$border-radius-large:    16px ;
+$border-radius-round:    50px ;
+/* Componet */
+$overlay-color:  rgba(33, 108, 188, 0.4);
+$padding-default: 60px;
+$padding-small: 20px;
+$padding-medium: 30px;
+$padding-large: 100px;
+$margin-small: 15px;
+$margin-default: 30px;
+$margin-large: 60px;
+$box-shadow-default: 0 0 20px 5px rgba(33, 107, 188, 0.01);
+$box-shadow: 0 0 20px 5px rgba(33, 107, 188, 0.03);
